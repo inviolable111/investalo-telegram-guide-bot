@@ -1,26 +1,26 @@
-# 🧭 Investalo Telegram-Guide Bot
+# 🧭 Investalo Telegram Guide Bot
 
-![Investalo Guide Vorschau](preview.jpg)
+![Investalo Guide Preview](preview.jpg)
 
-Ein professioneller Begleiter für Trader, der Struktur und Ruhe in den Handelsalltag bringt. Weg vom "Lärm" der Märkte, hin zu klarer Beobachtung.
+A professional companion for traders designed to bring structure and discipline to the trading routine. This bot filters market "noise" and focuses on clear, objective observation.
 
-## 🚀 Kernfunktionen
-- **Automatisierte Marktanalyse:** Scannt via TwelveData API die Volatilität von DAX, S&P 500, Gold und EUR/USD und ordnet das Marktumfeld ein (ruhig/aktiv/unruhig).
-- **Interaktives Menü:** Inline-Keyboards für direkten Zugriff auf Marktlogik, Mindset-Themen und Website-Ressourcen.
-- **Dynamic Content Engine:** Liefert je nach Tageszeit (Morgen, Mittag, Abend) passende Impulse, Challenges und Reflexionsfragen.
-- **Smart Push:** Alle 2 Stunden automatisierte Updates zu Psychologie und Marktkontext.
+## 🚀 Key Features
+- **Automated Market Analysis:** Scans volatility for DAX, S&P 500, Gold, and EUR/USD via TwelveData API, categorizing the environment (Calm/Active/Volatile).
+- **Interactive Menu:** Inline keyboards for instant access to market logic, mindset topics, and website resources.
+- **Dynamic Content Engine:** Delivers time-sensitive impulses, challenges, and reflection questions (Morning, Midday, Evening).
+- **Smart Push Notifications:** Automated bi-hourly updates on trading psychology and market context.
 
-## 🛠 Tech-Stack
-- **Sprache:** Python 3.x
-- **Framework:** `python-telegram-bot` (Asynchrone Programmierung)
-- **APIs:** TwelveData (Marktdaten), Telegram Bot API
-- **Deployment:** Vorbereitet für Server-Umgebungen mit `.env` Support.
+## 🛠 Tech Stack
+- **Language:** Python 3.x
+- **Framework:** `python-telegram-bot` (Asynchronous programming)
+- **APIs:** TwelveData (Market Data), Telegram Bot API
+- **Deployment:** Production-ready with `.env` support for secure configuration.
 
 ## 📦 Installation
-1. Repository klonen.
-2. `pip install -r requirements.txt` ausführen.
-3. `.env.example` in `.env` umbenennen und eigene API-Keys eintragen.
-4. `python bot.py` starten.
+1. Clone the repository.
+2. Run `pip install -r requirements.txt`.
+3. Rename `.env.example` to `.env` and add your API keys.
+4. Start the bot with `python bot.py`.
 
 ---
-*Entwickelt für die Investalo Akademie – Mentale Klarheit am Markt.*
+*Developed for the Investalo Academy – Achieving mental clarity in the markets.*
