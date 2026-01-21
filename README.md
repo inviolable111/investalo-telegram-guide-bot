@@ -1,4 +1,6 @@
-# Investalo Telegram Guide Bot 🤖📈
+# 🧭 Investalo Telegram-Guide Bot
+
+![Investalo Guide Vorschau](preview.jpg)
 
 Ein professioneller Begleiter für Trader, der Struktur und Ruhe in den Handelsalltag bringt. Weg vom "Lärm" der Märkte, hin zu klarer Beobachtung.
 
